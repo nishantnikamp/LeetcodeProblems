@@ -17,6 +17,7 @@ DSA
 | [0001-two-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
