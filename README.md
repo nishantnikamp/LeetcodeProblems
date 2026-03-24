@@ -17,6 +17,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0001-two-sum/) | Easy |
+| [0039-combination-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0039-combination-sum/) | Medium |
 | [0066-plus-one](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0078-subsets/) | Medium |
@@ -71,6 +72,7 @@ DSA
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
