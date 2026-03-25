@@ -21,6 +21,7 @@ DSA
 | [0066-plus-one](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0078-subsets/) | Medium |
+| [0198-house-robber](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0994-rotting-oranges](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0994-rotting-oranges/) | Medium |
@@ -81,4 +82,8 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0078-subsets/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0198-house-robber](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0198-house-robber/) | Medium |
 <!---LeetCode Topics End-->
