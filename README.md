@@ -23,6 +23,7 @@ DSA
 | [0078-subsets](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0078-subsets/) | Medium |
 | [0198-house-robber](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0213-house-robber-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0213-house-robber-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0994-rotting-oranges](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -86,4 +87,5 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0213-house-robber-ii/) | Medium |
 <!---LeetCode Topics End-->
