@@ -88,4 +88,9 @@ DSA
 | ------- | ------- |
 | [0198-house-robber](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0213-house-robber-ii/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1143-longest-common-subsequence/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
