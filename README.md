@@ -39,6 +39,7 @@ DSA
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ DSA
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@ DSA
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
