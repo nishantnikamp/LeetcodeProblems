@@ -27,6 +27,7 @@ DSA
 | [0209-minimum-size-subarray-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0213-house-robber-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0994-rotting-oranges](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Math
@@ -47,6 +48,7 @@ DSA
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -54,6 +56,7 @@ DSA
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,8 +116,17 @@ DSA
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
 <!---LeetCode Topics End-->
