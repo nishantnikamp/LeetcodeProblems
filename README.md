@@ -17,6 +17,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0011-container-with-most-water/) | Medium |
 | [0039-combination-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0039-combination-sum/) | Medium |
 | [0066-plus-one](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -110,10 +111,12 @@ DSA
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
