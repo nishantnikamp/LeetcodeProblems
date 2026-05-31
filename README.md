@@ -36,6 +36,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
