@@ -24,6 +24,7 @@ DSA
 | [0066-plus-one](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0198-house-robber/) | Medium |
@@ -123,6 +124,7 @@ DSA
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
 ## String Matching
@@ -132,6 +134,7 @@ DSA
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
