@@ -28,6 +28,7 @@ DSA
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0213-house-robber-ii/) | Medium |
@@ -47,6 +48,7 @@ DSA
 | ------- | ------- |
 | [0001-two-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0169-majority-element](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -77,6 +79,7 @@ DSA
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -139,6 +142,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -148,4 +152,8 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0070-climbing-stairs/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
