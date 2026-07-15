@@ -22,6 +22,7 @@ DSA
 | [0014-longest-common-prefix](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0039-combination-sum/) | Medium |
 | [0066-plus-one](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -60,6 +61,7 @@ DSA
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
