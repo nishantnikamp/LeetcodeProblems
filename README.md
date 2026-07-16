@@ -7,12 +7,14 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0206-reverse-linked-list/) | Easy |
 ## Array
 | Problem Name | Difficulty |
