@@ -140,6 +140,7 @@ DSA
 | [0067-add-binary](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Greedy
@@ -147,6 +148,7 @@ DSA
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +191,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0020-valid-parentheses/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,4 +200,8 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
