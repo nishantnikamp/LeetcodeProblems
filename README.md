@@ -59,6 +59,7 @@ DSA
 | [0012-integer-to-roman](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -137,6 +138,7 @@ DSA
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -178,6 +180,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,4 +193,8 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
