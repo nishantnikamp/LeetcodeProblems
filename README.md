@@ -145,6 +145,7 @@ DSA
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,4 +208,8 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 <!---LeetCode Topics End-->
