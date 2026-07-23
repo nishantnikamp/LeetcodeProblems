@@ -43,6 +43,7 @@ DSA
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1260-shift-2d-grid](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1260-shift-2d-grid/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ DSA
 | [0066-plus-one](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0070-climbing-stairs/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,6 +123,7 @@ DSA
 | [0067-add-binary](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0136-single-number/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
