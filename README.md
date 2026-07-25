@@ -57,6 +57,7 @@ DSA
 | [0070-climbing-stairs](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0070-climbing-stairs/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +183,7 @@ DSA
 | [0088-merge-sorted-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
