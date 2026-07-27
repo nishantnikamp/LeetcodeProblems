@@ -43,6 +43,7 @@ DSA
 | [0994-rotting-oranges](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1260-shift-2d-grid](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1260-shift-2d-grid/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -186,11 +187,13 @@ DSA
 | [0169-majority-element](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
