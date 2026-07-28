@@ -159,6 +159,7 @@ DSA
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +189,7 @@ DSA
 | [0628-maximum-product-of-three-numbers](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -234,4 +236,8 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
