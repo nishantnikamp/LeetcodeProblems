@@ -60,6 +60,7 @@ DSA
 | [0628-maximum-product-of-three-numbers](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@ DSA
 | [0169-majority-element](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +162,7 @@ DSA
 | [3499-maximize-active-section-with-trade-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +208,7 @@ DSA
 | ------- | ------- |
 | [0169-majority-element](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,4 +244,8 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 <!---LeetCode Topics End-->
