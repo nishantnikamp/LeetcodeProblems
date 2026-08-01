@@ -16,6 +16,7 @@ DSA
 | [0002-add-two-numbers](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0486-predict-the-winner](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0486-predict-the-winner/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ DSA
 | [0209-minimum-size-subarray-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0213-house-robber-ii/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0486-predict-the-winner](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0994-rotting-oranges](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0994-rotting-oranges/) | Medium |
@@ -57,6 +59,7 @@ DSA
 | [0066-plus-one](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0070-climbing-stairs/) | Easy |
+| [0486-predict-the-winner](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -143,6 +146,7 @@ DSA
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0213-house-robber-ii/) | Medium |
+| [0486-predict-the-winner](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0486-predict-the-winner/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1143-longest-common-subsequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -256,4 +260,8 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
