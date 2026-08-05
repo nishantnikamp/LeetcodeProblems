@@ -129,6 +129,7 @@ DSA
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0994-rotting-oranges](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0994-rotting-oranges/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,4 +288,12 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1406-stone-game-iii/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3310-remove-methods-from-project/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
