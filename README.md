@@ -168,6 +168,7 @@ DSA
 | [1140-stone-game-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1406-stone-game-iii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +190,7 @@ DSA
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -202,6 +204,7 @@ DSA
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -214,6 +217,7 @@ DSA
 | [0088-merge-sorted-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
