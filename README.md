@@ -71,6 +71,7 @@ DSA
 | [0877-stone-game](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1510-stone-game-iv/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -168,6 +169,7 @@ DSA
 | [1140-stone-game-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -301,16 +303,19 @@ DSA
 | [0877-stone-game](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1510-stone-game-iv/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1510-stone-game-iv/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -323,4 +328,12 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
