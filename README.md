@@ -53,6 +53,7 @@ DSA
 | [1406-stone-game-iii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
+| [1563-stone-game-v](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -80,6 +81,7 @@ DSA
 | [1140-stone-game-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -189,6 +191,7 @@ DSA
 | [1143-longest-common-subsequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1563-stone-game-v/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -330,6 +333,7 @@ DSA
 | [1140-stone-game-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
