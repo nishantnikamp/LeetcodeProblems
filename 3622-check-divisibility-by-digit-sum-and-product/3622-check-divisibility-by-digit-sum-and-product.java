@@ -8,8 +8,7 @@ class Solution {
             product *= num % 10;
             num /= 10;
         }
-        int res = sum + product;
-        if (n % res == 0) {
+        if (n % (sum + product) == 0) {
             return true;
         }
         return false;
