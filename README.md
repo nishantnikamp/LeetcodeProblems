@@ -94,6 +94,7 @@ DSA
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
