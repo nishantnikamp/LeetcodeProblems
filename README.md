@@ -57,6 +57,7 @@ DSA
 | [1872-stone-game-viii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2553-separate-the-digits-in-an-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -325,6 +326,7 @@ DSA
 | ------- | ------- |
 | [0067-add-binary](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
 | [1260-shift-2d-grid](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1260-shift-2d-grid/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
