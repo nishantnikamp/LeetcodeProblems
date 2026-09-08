@@ -167,16 +167,19 @@ DSA
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0994-rotting-oranges](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0994-rotting-oranges/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -389,6 +392,7 @@ DSA
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0100-same-tree/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
