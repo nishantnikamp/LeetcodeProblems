@@ -1,10 +1,10 @@
 class Solution {
     public boolean isHappy(int n) {
         Set<Integer> visit = new HashSet<>();
-        while(!visit.contains(n)){
+        while (!visit.contains(n)) {
             visit.add(n);
             n = getNextN(n);
-            if(n ==1){
+            if (n == 1) {
                 return true;
             }
         }
