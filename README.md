@@ -82,6 +82,7 @@ DSA
 | [0070-climbing-stairs](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0202-happy-number](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -111,6 +112,7 @@ DSA
 | [0013-roman-to-integer](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -275,6 +277,7 @@ DSA
 | [0088-merge-sorted-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0202-happy-number/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0658-find-k-closest-elements/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -422,4 +425,8 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
