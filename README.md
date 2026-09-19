@@ -89,6 +89,7 @@ DSA
 | [0628-maximum-product-of-three-numbers](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1140-stone-game-ii/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1563-stone-game-v/) | Hard |
@@ -442,4 +443,8 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0202-happy-number/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
