@@ -256,6 +256,7 @@ DSA
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -350,6 +351,7 @@ DSA
 | [1260-shift-2d-grid](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1260-shift-2d-grid/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
