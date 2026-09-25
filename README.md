@@ -88,6 +88,7 @@ DSA
 | [0171-excel-sheet-column-number](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0202-happy-number](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0268-missing-number/) | Easy |
+| [0292-nim-game](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0877-stone-game/) | Medium |
@@ -389,6 +390,7 @@ DSA
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1140-stone-game-ii/) | Medium |
@@ -401,6 +403,7 @@ DSA
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1510-stone-game-iv/) | Hard |
@@ -431,6 +434,7 @@ DSA
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
 | [1510-stone-game-iv](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1510-stone-game-iv/) | Hard |
 | [2029-stone-game-ix](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
@@ -453,4 +457,12 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
