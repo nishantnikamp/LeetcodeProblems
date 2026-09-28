@@ -252,6 +252,7 @@ DSA
 | [0819-most-common-word](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0819-most-common-word/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1927-sum-game](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1927-sum-game/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -349,6 +350,7 @@ DSA
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0020-valid-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -465,4 +467,8 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0292-nim-game/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
