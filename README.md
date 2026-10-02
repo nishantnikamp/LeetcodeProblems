@@ -196,6 +196,7 @@ DSA
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0078-subsets/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -215,6 +216,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0198-house-robber/) | Medium |
@@ -238,6 +240,7 @@ DSA
 | [0013-roman-to-integer](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
@@ -470,5 +473,6 @@ DSA
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0022-generate-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
