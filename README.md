@@ -478,6 +478,7 @@ DSA
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
