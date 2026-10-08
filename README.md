@@ -255,6 +255,7 @@ DSA
 | [0819-most-common-word](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0819-most-common-word/) | Easy |
 | [0856-score-of-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -357,6 +358,7 @@ DSA
 | [0020-valid-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0020-valid-parentheses/) | Easy |
 | [0856-score-of-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Simulation
@@ -482,5 +484,6 @@ DSA
 | [0022-generate-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
