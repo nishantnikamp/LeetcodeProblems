@@ -64,6 +64,7 @@ DSA
 | [2213-longest-substring-of-one-repeating-character](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -169,6 +170,7 @@ DSA
 | [0209-minimum-size-subarray-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1140-stone-game-ii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1140-stone-game-ii/) | Medium |
 | [1872-stone-game-viii](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1872-stone-game-viii/) | Hard |
+| [2574-left-and-right-sum-differences](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
