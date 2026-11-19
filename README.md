@@ -88,6 +88,7 @@ DSA
 | [0043-multiply-strings](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0070-climbing-stairs/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0171-excel-sheet-column-number/) | Easy |
@@ -144,6 +145,7 @@ DSA
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -499,4 +501,8 @@ DSA
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/nishantnikamp/LeetcodeProblems/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
